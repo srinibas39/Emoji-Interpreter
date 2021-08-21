@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+ 
+ 
+}
+*{
+  padding:0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  background-color: 
+  #E5E7EB;
+  height: 5rem;
+  text-align: center;
+  padding: 1rem;
+
+}
+p{
+  margin: 1rem;
+  font-size: x-large;
+    font-weight: bold;
+
+}
+.emojiText {
+  margin: 1rem;
+  font-size: x-large;
+  font-weight: bold;
+}
+.ul{
+   margin: 3rem;
+}
+.list{
+
+  background-color:
+  #E5E7EB;
+  padding: 1rem;
+  
+}
+input{
+  height: 2rem;
+}
+
+
+
